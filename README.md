@@ -42,3 +42,5 @@ One of the most professional touches I added was a try...finally block. In early
 The true value of this project lies in the technical troubleshooting. Because VS Code's Pylance engine initially struggled with the memory demands of Python 3.14, I had to manually adjust the Analysis Indexing Limits in the settings to prevent "Out of Memory" crashes.
 
 I successfully bridged the gap between a brand-new programming language and complex mathematical libraries. I now have a functional, real-time AI that can be expanded to recognize faces, objects, or even sign language.
+
+<img width="1916" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e80e8425-836c-46eb-a5ce-f35ace1a1b00" />
